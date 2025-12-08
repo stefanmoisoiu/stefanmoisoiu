@@ -34,4 +34,4 @@ My current focus is on building a robust foundation that feels responsive even u
 I'm always open to collaboration and opportunities.
 
 * [My GitHub Repositories](https://github.com/stefanmoisoiu?tab=repositories)
-* [LinkedIn](https://www.linkedin.com/in/stefan-moisoiu-493781280/) ```
+* [LinkedIn](https://www.linkedin.com/in/stefan-moisoiu-493781280/)
