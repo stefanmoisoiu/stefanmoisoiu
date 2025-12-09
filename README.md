@@ -1,27 +1,28 @@
+```text
+ _   _      _ _          _____ _             _____ _        __            
+| | | |    | | |        |_   _( )           /  ___| |      / _|           
+| |_| | ___| | | ___      | | |/ _ __ ___   \ `--.| |_ ___| |_ __ _ _ __  
+|  _  |/ _ \ | |/ _ \     | |   | '_ ` _ \   `--. \ __/ _ \  _/ _` | '_ \ 
+| | | |  __/ | | (_) |   _| |_  | | | | | | /\__/ / ||  __/ || (_| | | | |
+\_| |_/\___|_|_|\___( )  \___/  |_| |_| |_| \____/ \__\___|_| \__,_|_| |_|
+                    |/                                                    
+```
+
+I am a **Student at 3iL Ingénieurs** with a passion for **Video Game Programming** and **Multiplayer Architecture**.
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-  <br>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Stefan+Moisoiu;Video+Game+Programmer;Multiplayer+Architecture+Specialist;Student+at+3iL+Ingénieurs" alt="Typing SVG" />
-  </a>
-
-  <br>
-  
   <img src="1.gif" width="600px" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
 
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,c,git,visualstudio,md,dotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,java,c,mysql,html,css,js,vue&theme=dark" />
   </a>
-
+  &emsp;&emsp;&emsp;&emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,git,vscode,rider,figma&theme=dark" />
+  </a>
 </div>
-
-<br>
-
----
 
 ## Featured Research
 
@@ -36,40 +37,22 @@
 
 ---
 
-## Current Development
-
-**Project:** Multiplayer Casual Shooter
-
-Currently architecting a robust foundation designed to remain responsive under harsh network conditions (4G/Wifi).
+## Current Project
+I'm currently making my first commercial game, a fast-paced casual FPS, where you upgrade your robot's stats and abilities with resources you collect during the game.
 
 | Area | Technical Implementation |
 | :--- | :--- |
 | **Physics** | Custom Deterministic Physics solution using `CharacterBody`. |
 | **Network** | Secure architecture via Unity Netcode for GameObjects. |
-| **System** | Extensive upgrade system shaping gameplay loops. |
+| **System** | Extensive upgrade system shaping the way you play. |
 
 ---
 
 <div align="center">
-
-  <h3>GitHub Analytics</h3>
-
-  <img src="https://streak-stats.demolab.com?user=stefanmoisoiu&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-  <br><br>
-
   <p>
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stefanmoisoiu&theme=radical" />
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefanmoisoiu&theme=radical" />
   </p>
-  
-  <p>
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stefanmoisoiu&theme=radical&utcOffset=2" />
-  </p>
-
-  <br>
-
-  <img src="https://profile-counter.glitch.me/stefanmoisoiu/count.svg" />
   
   <br><br>
 
