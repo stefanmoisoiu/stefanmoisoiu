@@ -46,17 +46,8 @@ I'm currently making my first commercial game, a fast-paced casual FPS, where yo
 | **Network** | Secure architecture via Unity Netcode for GameObjects. |
 | **System** | Extensive upgrade system shaping the way you play. |
 
----
-
 <div align="center">
-  <p>
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stefanmoisoiu&theme=radical" />
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stefanmoisoiu&theme=radical" />
-  </p>
-  
-  <br><br>
-
   <a href="https://www.linkedin.com/in/stefan-moisoiu-493781280/">LinkedIn</a> • <a href="https://github.com/stefanmoisoiu?tab=repositories">Repositories</a>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer"/>
 </div>
